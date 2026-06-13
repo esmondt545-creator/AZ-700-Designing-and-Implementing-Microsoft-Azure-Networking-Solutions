@@ -47,7 +47,7 @@
       }
     },
   "variables": {
-    "virtualNetworkName": "CoreServicesVnet",
+    "virtualNetworkName": "ContsoCoreServices",
     "nsgName1": "testvm1-nsg",
     "nsgName2": "testvm2-nsg",
     "PIPName1": "testvm1-pip",
